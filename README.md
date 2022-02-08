@@ -14,7 +14,7 @@
 <h4 style="color:green;background-color:blue;">Bij aizslēgta un</h4>
 <h5>Tā atslēga bij nolausta</h5>
 <h6>Vienu divi trīs</h6>
-<h1>Nu tu esi brīvs</h1>
+<h1 style="color:#9D2235">Nu tu esi brīvs</h1>
 
     </center>
     
