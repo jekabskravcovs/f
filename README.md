@@ -6,6 +6,8 @@
 
 <body>
 
+  <center> 
+  
 <h1 style="background-color:blue;">Viena maza turku</h1>
 <h2 style="color:green;background-color:blue;">Pupa ceļoja uz</h2>
 <h3 style="text-align:centre;">Angliju anglija</h3>
@@ -14,5 +16,7 @@
 <h6>Vienu divi trīs</h6>
 <h1>Nu tu esi brīvs</h1>
 
+    </center>
+    
 </body>
 </html>
