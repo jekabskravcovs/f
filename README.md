@@ -8,7 +8,7 @@
 
   <center> 
   
-<h1 style="background-color:blue;">Viena maza turku</h1>
+<h1 style="background-color:blue;">Viena maza turku siermaize</h1>
 <h2 style="color:green;background-color:blue;">Pupa ceļoja uz</h2>
 <h3 style="text-align:centre;">Angliju anglija</h3>
 <h4 style="color:green;background-color:blue;">Bij aizslēgta un</h4>
